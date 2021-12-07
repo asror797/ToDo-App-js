@@ -66,8 +66,6 @@ form.addEventListener('submit', e=> {
         li.appendChild(delBtn)
 
         
-        console.log(todos)
-
         //delete input old value 
         input.value=""
     }else {
